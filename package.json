@@ -1,0 +1,25 @@
+{
+  "name": "sqfdocs",
+  "version": "0.0.1",
+  "description": "Node JS application for creating online documentation for SQF (Arma 3) functions.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.15.3",
+    "socket.io": "^2.0.3"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/sqf-docs"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
